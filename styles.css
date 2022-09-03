@@ -1,0 +1,50 @@
+/* Dhruv Kakadiya
+ID - 991653956
+Date - 10/6/2022 */
+
+body{
+    text-align: center;
+    background: burlywood;
+    font-family: sans-serif;
+}
+
+h1{
+    color: darkblue;
+}
+
+table, tr, td{
+    margin-top: 20px;
+    width: 730px;
+    margin-left: auto; margin-right: auto;
+    padding: 5px;
+    table-layout: fixed;
+    word-wrap: break-word;
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+thead{
+
+    color: darkblue;
+    font-size: large;
+}
+
+form{
+    margin-left: auto; margin-right: auto;
+    width: 750px;
+}
+
+.deleteButton{
+    color: red;
+    background: none;
+    border: none;
+    font-size: larger;
+    font-weight: bolder;
+    font-family: cursive;
+}
+
+.deleteButton:hover{
+    cursor: pointer;
+}
